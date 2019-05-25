@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhetherApp</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="c">ºC</string>
+    <string name="f">ºF</string>
+    <string name="en">EN</string>
+    <string name="pt">PT</string>
+    <string name="description_language">Description Language</string>
+    <string name="save">Save</string>
+</resources>
